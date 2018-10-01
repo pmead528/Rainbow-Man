@@ -6,6 +6,7 @@ Orange
 Blue
 Green
 Fairies
+Testicles
 Unicorn
 Indigo
 Farieis also 
@@ -16,3 +17,4 @@ These are the colors of the rainbow
 And the unicorn and the ponies. 
 And I want to include fairies too. 
 Don't forget that fairies have wings!
+Oh no, I've ruined it!
