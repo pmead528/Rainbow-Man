@@ -5,10 +5,12 @@ Pink
 Orange
 Blue
 Green
+Fairies
 Unicorn
 Indigo
 Violet
 Yellow
 Red
 These are the colors of the rainbow
-And the unicorn and the ponies.
+And the unicorn and the ponies. 
+And I want to include fairies too. 
